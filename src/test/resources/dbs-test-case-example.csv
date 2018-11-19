@@ -1,0 +1,132 @@
+﻿TEST CASE ID,TEST DESCRIPTION,PER CONDITION,TEST STEPS,TEST DATA(E),TEST DATA(T),TEST DATA(C),TEST DATA(M),EXPECTED RESULT,DATE/TIME(E),DATE/TIME(T),DATE/TIME(C),DATE/TIME(M),Tester Name (English),"Tester 
+Name
+(Tamil)","Tester 
+Name
+(Chinese)","Tester 
+Name
+(Malay)"
+Test case name,Description,,Test Steps,Test Data/Parameters 1,Test Data/Parameters 2,Test Data/Parameters 3,Test Data/Parameters 4,Expected results_UDF,,,,,,,,
+TC1,TEST DESCRIPTION1,"1.System should be up and running.
+
+","Test Step1
+Test Step2
+Test Step3
+Test Step4
+Test Step5","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx ABC/123
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx EFT/140
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx ASD/0002
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx NBM/1523
+                         ",Result 1," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0070     "," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0070     "," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0070     "," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0070     ",Jessica,Jessica,JJ,JJ
+TC2,TEST DESCRIPTION2,"1.System should be up and running.
+
+","Test Step1
+Test Step2
+Test Step3
+Test Step4
+Test Step5","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ",Result 2," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0071"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0071"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0071"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0071",Jessica,Jessica,JJ,JJ
+TC3,TEST DESCRIPTION3,"1.System should be up and running.
+2. Receipt roll should be taken out of the machine.
+","Test Step1
+Test Step2
+Test Step3
+Test Step4
+Test Step5","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ",Result 3," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0072"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0072"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0072"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0072",Jessica,Jessica,JJ,JJ
+TC4,TEST DESCRIPTION4,"1.System should be up and running.
+2. Receipt roll should be taken out of the machine.
+","Test Step1
+Test Step2
+Test Step3
+Test Step4
+Test Step5","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ","Card#:123123123
+PIN#:111111
+Acc#:999 DS  xxx-xxxxx-xx
+                         ",Result 4," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0073"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0073"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0073"," DATE     09/05/18 
+ TIME     11:50:45 
+ BUS DATE 18/09/17 
+ SEQ NBR  0073",Jessica,karthiga,JJ,JJ
